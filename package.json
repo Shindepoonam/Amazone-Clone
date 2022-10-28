@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@material-ui/icons": "^4.11.3",
+    "npm": "^8.19.2",
+    "react-currency-format": "^1.1.0",
+    "react-router-dom": "^6.4.2"
+  }
+}
